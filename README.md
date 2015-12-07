@@ -14,6 +14,15 @@ Raspberry PI using another tool written in C. Should be able to
 replicate any OOK signal without getting into details of its
 modulation. Those tools were experimental and are crap.
 
+RC Car 
+====== 
+There's also code included for an USB joystick control over an
+old-school 27MHz RC car. It's signal is simple PCM with constant 4 longer pulses 
+and a variable number of shorter pulses which sent one of 8 commands:
+- forward, left-forward, right-forward,
+- backward, left-backward, right-backward,
+- left, right
+
 
 License
 =======
