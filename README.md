@@ -24,6 +24,11 @@ and a variable number of shorter pulses which sent one of 8 commands:
 - left, right
 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yueosDPGutY
+" target="_blank"><img src="http://img.youtube.com/vi/yueosDPGutY/0.jpg" 
+alt="Youtube video of RC car with gqrx showing signal" width="532" height="400" border="10" /></a>
+
+
 License
 =======
 PCM decoder is licensed as public domain. Rpi signal replicator code
